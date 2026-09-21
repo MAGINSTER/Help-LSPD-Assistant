@@ -1,9 +1,8 @@
 # gitbook-docs.yaml
 site:
   title: "LSPD Assistant Help"
-  
-  structure:
-    - key: lspd-main-space
-      title: "Главная база знаний"
-      content:
-        directory: "."
+
+structure:
+  - title: "Главная база знаний"
+    content:
+      directory: "."
