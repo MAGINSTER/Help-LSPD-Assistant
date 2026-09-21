@@ -1,9 +1,11 @@
-# gitbook-docs.yaml
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: "LSPD Assistant Help"
-  
+  title: LSPD Assistant Docs
   structure:
-    - space: lspd-main-space
-      title: "Главная база знаний"
+    - type: space
+      key: space-1
+      title: Untitled
+      path: untitled
+      default: true
       content:
-        directory: "."
+        directory: ./untitled
