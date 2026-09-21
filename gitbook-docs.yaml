@@ -1,8 +1,10 @@
 # gitbook-docs.yaml
 site:
   title: "LSPD Assistant Help"
-
-structure:
-  - title: "Главная база знаний"
-    content:
-      directory: "."
+  
+  # Структура сайта должна находиться СТРОГО внутри объекта site
+  structure:
+    - key: lspd-main-space
+      title: "Главная база знаний"
+      content:
+        directory: "."
