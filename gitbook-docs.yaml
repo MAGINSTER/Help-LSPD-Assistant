@@ -1,4 +1,8 @@
-version: "v1"
-spaces:
-  - content:
-      directory: "."
+# gitbook-docs.yaml
+site:
+  structure:
+    - type: space
+      key: space-1
+      title: "LSPD Assistant Help"
+      content:
+        directory: "."
