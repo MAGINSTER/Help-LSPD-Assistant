@@ -1,0 +1,4 @@
+version: "v1"
+spaces:
+  - content:
+      directory: "."
