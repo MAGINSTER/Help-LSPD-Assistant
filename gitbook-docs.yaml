@@ -2,9 +2,8 @@
 site:
   title: "LSPD Assistant Help"
   
-  # Структура сайта должна находиться СТРОГО внутри объекта site
   structure:
-    - key: lspd-main-space
+    - space: lspd-main-space
       title: "Главная база знаний"
       content:
         directory: "."
