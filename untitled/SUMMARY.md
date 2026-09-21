@@ -2,3 +2,4 @@
 
 * [Bot-Assist-main](README.md)
   * [Bot-Assist](bot-assist-main/bot-assist.md)
+  * [Инструкции](bot-assist-main/instrukcii.md)
