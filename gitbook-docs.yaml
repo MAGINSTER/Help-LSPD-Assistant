@@ -1,8 +1,11 @@
 # gitbook-docs.yaml
 site:
+  # Пропишите здесь название вашей базы знаний
+  title: "LSPD Assistant Help"
+  
   structure:
     - type: space
-      key: space-1
-      title: "LSPD Assistant Help"
+      key: lspd-main-space
+      title: "Главная база знаний"
       content:
         directory: "."
