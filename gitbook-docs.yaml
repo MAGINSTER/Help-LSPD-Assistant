@@ -4,7 +4,7 @@ site:
   structure:
     - type: space
       key: space-1
-      title: Untitled
+      title: 🇷🇺 Русский
       path: untitled
       default: true
       content:
@@ -12,15 +12,21 @@ site:
         language: ru
     - type: space
       key: space-2
-      title: English
+      title: 🇺🇸 English
       path: documentation-lspd-assistant-bot-en
       content:
         directory: null
         language: en
     - type: space
       key: space-3
-      title: Українська
+      title: 🇺🇦 Українська
       path: documentation-lspd-assistant-bot-ua
       content:
         directory: null
         language: uk
+    - type: space
+      key: space-4
+      title: Copy of 🇺🇸 English
+      path: copy-of-english
+      content:
+        directory: ./copy-of-english
