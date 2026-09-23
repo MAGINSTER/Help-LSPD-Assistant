@@ -26,7 +26,7 @@ site:
         language: uk
     - type: space
       key: space-4
-      title: 🇧🇾 Беларуская
+      title: 🇺🇸 English
       path: documentation-lspd-assistant-bot-by
       hidden: true
       content:
