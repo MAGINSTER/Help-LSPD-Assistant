@@ -28,6 +28,7 @@ site:
       key: space-4
       title: 🇧🇾 Беларуская
       path: documentation-lspd-assistant-bot-by
+      hidden: true
       content:
         directory: ./copy-of-english
     - type: space
