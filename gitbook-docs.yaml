@@ -30,3 +30,9 @@ site:
       path: documentation-lspd-assistant-bot-by
       content:
         directory: ./copy-of-english
+    - type: space
+      key: space-5
+      title: 🇧🇾 Беларуская
+      path: belaruskaya
+      content:
+        directory: ./belaruskaya
