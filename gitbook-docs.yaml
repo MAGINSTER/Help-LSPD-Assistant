@@ -10,3 +10,17 @@ site:
       content:
         directory: ./untitled
         language: ru
+    - type: space
+      key: space-2
+      title: English
+      path: documentation-lspd-assistant-bot-en
+      content:
+        directory: null
+        language: en
+    - type: space
+      key: space-3
+      title: Українська
+      path: documentation-lspd-assistant-bot-ua
+      content:
+        directory: null
+        language: uk
